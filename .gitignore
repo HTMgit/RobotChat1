@@ -1,0 +1,10 @@
+robot_chat
+RobotChat
+.vscode
+*.exe
+.idea
+.mod
+.sum
+config.toml
+logs
+db
